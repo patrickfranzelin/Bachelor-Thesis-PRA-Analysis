@@ -67,6 +67,3 @@ Bachelor of Science in Geography
 University of Graz  
 2024
 
----
-
-Let me know if you would like to make any adjustments!
