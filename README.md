@@ -38,6 +38,21 @@ The repository contains the following directories and files:
 - GDAL
 - RAMMS (for simulation)
 
+Digital Terrain Model (DTM) Usage
+This project requires a Digital Terrain Model (DTM) dataset for analysis. You can download the DTM from the South Tyrol Geoportal. Please follow the steps below to acquire and use the dataset in this project:
+
+Downloading the DTM:
+Access the Geoportal:
+
+Visit the official South Tyrol Geoportal at geoportal.buergernetz.bz.it.
+Locate the DTM Dataset:
+
+Use the search bar or navigate through the available layers to find the Digital Terrain Model (DTM) data.
+Choose the appropriate resolution and format (such as GeoTIFF or another format compatible with this project).
+Download the Dataset:
+
+Click on the download button provided by the geoportal and save the DTM file to your local system.
+
 ## Installation
 
 To get started, clone the repository and set up a virtual environment:
