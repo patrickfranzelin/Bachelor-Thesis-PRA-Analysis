@@ -18,8 +18,8 @@ The repository contains the following directories and files:
   
 ## Main Files
 
-- `PRA_Vergleich.ipynb`: This notebook compares the PRA analysis with historical avalanche events to assess the accuracy and reliability of the hazard mapping.
 - `PRA_Berechnung_Franzelin.ipynb`: This notebook contains the core calculations and method implementation for PRA analysis.
+- `PRA_Vergleich.ipynb`: This notebook compares the PRA analysis with different Values to find the best.
 - `Franzelin_Bachelor_Signed.pdf`: The final thesis document, which provides detailed information about the project’s background, methodology, and results.
 
 ## Methodology
@@ -31,7 +31,7 @@ The repository contains the following directories and files:
 
 ## Requirements
 
-- Python 3.x
+- Python 3.9
 - Jupyter Notebook
 - GeoPandas
 - NumPy
