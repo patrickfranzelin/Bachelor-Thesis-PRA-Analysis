@@ -42,13 +42,13 @@ The repository contains the following directories and files:
 
 This project requires a Digital Terrain Model (DTM) dataset for analysis. You can download the DTM from the **South Tyrol Geoportal**. Please follow the steps below to acquire and use the dataset in this project:
 
-### Downloading the DTM:
+### Downloading the DEM:
 
 1. **Access the Geoportal**:
    - Visit the official South Tyrol Geoportal at [geoportal.buergernetz.bz.it](http://geokatalog.buergernetz.bz.it/geokatalog/#!).
 
-2. **Locate the DTM Dataset**:
-   - Use the search bar or navigate through the available layers to find the **Digital Terrain Model (DTM)** data.
+2. **Locate the DEM Dataset**:
+   - Use the search bar or navigate through the available layers to find the **Digital Elevation Model (DEM)** data.
    - Choose the appropriate resolution and format (such as GeoTIFF or another format compatible with this project).
 
 3. **Download the Dataset**:
