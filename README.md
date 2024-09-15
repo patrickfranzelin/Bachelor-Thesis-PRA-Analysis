@@ -1,6 +1,3 @@
-Here is a draft for your README file based on the bachelor thesis project you uploaded:
-
----
 
 # Analysis of Avalanche Hazard in South Tyrol
 
